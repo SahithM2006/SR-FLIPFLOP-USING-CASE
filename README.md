@@ -69,5 +69,6 @@ endmodule
 ![WhatsApp Image 2024-12-17 at 14 26 19_a1d80467](https://github.com/user-attachments/assets/1eb75681-74eb-43fd-91e2-07af98d304ff)
 
 **RESULTS**
+
 Thus the SR flipflop is implemented using verilog and validated their functionality using
 their functional tables
